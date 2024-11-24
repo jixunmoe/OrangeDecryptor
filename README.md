@@ -5,7 +5,7 @@ OrangeDecryptor
 
 参见：
 * https://jixun.moe/post/100-orange-decryptor
-* https://blog.jixun.moe/100-orange-data-unpack-v1
+* https://jixun.uk/posts/2018/100-orange-data-unpack-v1/
 
 ## 原始说明
 
